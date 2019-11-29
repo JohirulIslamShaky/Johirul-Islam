@@ -1,0 +1,247 @@
+@media (max-width:991px) {
+    .navbar-brand {
+        margin-left: -40px;
+        margin-right: 0px;
+    }
+
+    #navBar .nav-item.lastlink {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
+    #navBar .lastlink .btn {
+        padding: 8px 15px;
+        width: 175px;
+    }
+
+    #headerimage .row .col .form-box {
+        left: 65px;
+    }
+
+}
+
+@media (max-width:767px) {
+    .navbar-brand {
+        margin-left: -130px;
+    }
+
+    #navBar .lastlink .btn {
+        padding: 8px 9px;
+        width: 155px;
+    }
+
+    #headerimage .row .col .form-box {
+        left: 0px;
+        top: 230px;
+        max-width: 100%;
+    }
+
+    #headerimage .row .col .form-box .form-inline {
+        margin-left: 15px;
+        max-width: 95%;
+    }
+
+    #headerimage .row .col .form-box input[type="url"] {
+        max-width: 73%;
+    }
+
+    #anchorSection .row .col .anchor1,
+    .anchor2,
+    .anchor3,
+    .anchor4 {
+        margin-top: 15px;
+    }
+
+    #anchorSection .row .col .anchorIcon {
+        margin: -190px auto;
+    }
+
+    #seoServiceSection {
+        padding-top: 0 !important;
+    }
+
+    #analysisSection .row .btn {
+        margin-bottom: 20px;
+    }
+
+    #analysisSection .row .col .analysisIcon {
+        bottom: -5px;
+        margin-left: 260px;
+    }
+
+    .seoPackageList .navTabs {
+        padding: 5px;
+        height: 120px;
+        margin-top: 20px;
+    }
+
+    .seoContact {
+        margin-bottom: 0px !important;
+        padding: 10px !important;
+    }
+
+    .seoContact h4 {
+        font-size: 20px;
+    }
+
+    .seoContact .col a {
+        width: 115px;
+        left: 5px;
+        top: 25px;
+        padding: 5px;
+    }
+
+    #imgGallery .row .col .imgBox a img {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:575px) {
+    #headerimage .row .col .form-box {
+        left: 15px;
+        top: 235px;
+        max-width: 95%;
+    }
+
+    #headerimage .row .col .form-box input[type="url"] {
+        max-width: 68%;
+    }
+
+    #headerimage .row .col .form-box .form-inline {
+        max-width: 96%;
+        margin-left: 10px;
+    }
+
+    #analysisSection .row .btn {
+        margin-bottom: 20px;
+    }
+
+    #analysisSection .row .col .analysisIcon {
+        bottom: 0px;
+        margin-left: 290px;
+    }
+
+    .seoPackageList .navTabs {
+        margin-top: 20px;
+    }
+
+    .seoContact {
+        margin-bottom: 0 !important;
+        padding: 5px !important;
+    }
+
+    .seoContact h4 {
+        font-size: 20px;
+    }
+
+    .seoContact .col a {
+        top: 30px;
+    }
+
+    #imgGallery .row .col .imgBox a img {
+        border: none;
+        margin-top: 10px;
+    }
+}
+
+@media (max-width:480px) {
+    #headerimage .row .col h1 {
+        margin-top: 0;
+    }
+
+    #headerimage .row .col .form-box {
+        max-width: 94%;
+        left: 15px;
+    }
+
+    #headerimage .row .col .form-box .form-inline {
+        max-width: 97%;
+        margin-left: 10px;
+    }
+
+    #headerimage .row .col .form-box input[type="url"] {
+        max-width: 65%;
+    }
+
+    #headerimage .row .urlbtn {
+        max-width: 20%;
+    }
+
+    #anchorSection .row .col .anchor1,
+    .anchor2,
+    .anchor3,
+    .anchor4 {
+        font-size: 15px;
+    }
+
+    #analysisSection .row .col .analysisIcon {
+        bottom: 5px;
+        margin-left: 180px;
+    }
+
+    #timerSection .row .col .timerImg {
+        margin-top: 30px;
+    }
+
+    #analysisSection .row .btn {
+        margin-bottom: 10px;
+    }
+
+    .seoPackageList .navTabs {
+        padding: 10px 2px;
+        max-height: 90px;
+        margin-top: 10px;
+    }
+
+    .seoPackageList .navTabs h3 {
+        font-size: 20px;
+    }
+
+    .col-md-2.col-sm-6.p-0.c2.b2 {
+        max-width: 50%;
+    }
+
+    .col-md-2.col-sm-6.p-0.c3.b3 {
+        max-width: 50%;
+    }
+
+    .col-md-2.col-sm-6.p-0.c4.b4 {
+        max-width: 50%;
+    }
+
+    .col-md-2.col-sm-6.col-xs-12.p-0.c5.b5 {
+        max-width: 50%;
+    }
+
+    .row.my-5.p-5.seoContact {
+        padding: 10px !important;
+    }
+
+    .row.my-5.p-5.seoContact h4 {
+        font-size: 16px;
+    }
+
+    .seoContact .col a {
+        left: 40px;
+        top: 35px;
+    }
+
+    .seoContact {
+        margin-bottom: 0px !important;
+    }
+
+    #imgGallery .row .col .imgBox a img {
+        padding: 10px 0;
+        border: none;
+    }
+
+    #footerTopSection form .form-group input {
+        max-width: 67%;
+        padding: 5px 15px;
+    }
+
+    #footerTopSection form .form-group button {
+        padding: 5px;
+        width: 35px;
+    }
+}
