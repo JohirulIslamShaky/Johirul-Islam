@@ -1,2 +1,2 @@
 # Seotime  web template
-Click Live link: https://johirulshaky.github.io/Seotime/
+source code download: https://github.com/johirulshaky/seotime/archive/refs/tags/1.0.zip
